@@ -32,3 +32,9 @@
 
 ```text
 Robotics_YaskawaMH5.m
+
+**## before run pls check**
+which Link
+which SerialLink
+which trnorm
+which SE3 -all
